@@ -1,0 +1,17 @@
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\PetsApp\bin\Debug\PetsApp.exe.config
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\PetsApp\bin\Debug\PetsApp.exe
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\PetsApp\bin\Debug\PetsApp.pdb
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\PetsApp\obj\Debug\PetsApp.csprojAssemblyReference.cache
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\PetsApp\obj\Debug\PetsApp.Properties.Resources.resources
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\PetsApp\obj\Debug\PetsApp.csproj.GenerateResource.cache
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\PetsApp\obj\Debug\PetsApp.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\PetsApp\obj\Debug\PetsApp.exe
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\PetsApp\obj\Debug\PetsApp.pdb
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\PetsApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\PetsApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\PetsApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\PetsApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\PetsApp\obj\Debug\PetsApp.Form1.resources
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\PetsApp\obj\Debug\PetsApp.Form2.resources
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\PetsApp\obj\Debug\PetsApp.Menu.resources
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\PetsApp\obj\Debug\PetsApp.csproj.CopyComplete

@@ -1,0 +1,8 @@
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\Cars\bin\Release\fuel.csv
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\Cars\bin\Release\Cars.exe.config
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\Cars\bin\Release\Cars.exe
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\Cars\bin\Release\Cars.pdb
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\Cars\obj\Release\Cars.csprojAssemblyReference.cache
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\Cars\obj\Release\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\Cars\obj\Release\Cars.exe
+C:\Users\Michał\Documents\C# Linq Excercises\4-linq-fundamentals-csharp-6-m4-exercise-files\Cars\obj\Release\Cars.pdb
